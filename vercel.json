@@ -1,4 +1,3 @@
-// vercel.json (루트에 생성)
 {
   "rewrites": [
     { "source": "/", "destination": "/index" }
